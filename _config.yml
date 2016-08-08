@@ -1,19 +1,31 @@
-typography_spectrum: 0.5423199057113379
-content_rating:
-  adult: false
-color:
-  brandStrength: 0.9059040092397481
-  lightness: 0.5090289684012532
-  saturation: 0.8427626509219408
-  rhythmicContrast: 0.07000247319228947
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.033919010777026415
 author:
   name: Juan Rheza Setiadi
   email: j.r.setiadi@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#1F1A17'
+    - '#4B4545'
+    - '#BFBDBE'
+    - '#736E6E'
+  rhythmicContrast: 0.5
+typography_spectrum: 1
+layout_spectrum: 1
+content_rating:
+  adult: false
 name: JRS
