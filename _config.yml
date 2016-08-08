@@ -1,5 +1,6 @@
-layout_spectrum: 0.033919010777026415
 typography_spectrum: 0.5423199057113379
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9059040092397481
   lightness: 0.5090289684012532
@@ -11,4 +12,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.033919010777026415
+author:
+  name: Juan Rheza Setiadi
+  email: j.r.setiadi@gmail.com
 name: JRS
