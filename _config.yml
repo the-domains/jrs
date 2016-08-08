@@ -1,0 +1,14 @@
+layout_spectrum: 0.033919010777026415
+typography_spectrum: 0.5423199057113379
+color:
+  brandStrength: 0.9059040092397481
+  lightness: 0.5090289684012532
+  saturation: 0.8427626509219408
+  rhythmicContrast: 0.07000247319228947
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: JRS
