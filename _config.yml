@@ -1,31 +1,31 @@
 author:
   name: Juan Rheza Setiadi
   email: j.r.setiadi@gmail.com
+name: JRS
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
   lightness: 1
   brandColors:
-    - '#FFFFFF'
-    - '#1F1A17'
-    - '#4B4545'
-    - '#BFBDBE'
-    - '#736E6E'
+    - '#FEFEFE'
+    - '#080808'
+    - '#424240'
+    - '#ACACAC'
+    - '#616161'
   rhythmicContrast: 0.5
 typography_spectrum: 1
-layout_spectrum: 1
 content_rating:
   adult: false
-name: JRS
+layout_spectrum: 1
