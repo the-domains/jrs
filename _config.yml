@@ -1,7 +1,26 @@
+typography_spectrum: 1
+content_rating:
+  adult: false
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FEFEFE'
+    - '#080808'
+    - '#424240'
+    - '#ACACAC'
+    - '#616161'
+  rhythmicContrast: 0.5
+layout_spectrum: 1
 author:
   name: Juan Rheza Setiadi
   email: j.r.setiadi@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/672acb6c-011e-43ad-8b0d-058aff3c08b9.jpg
 name: JRS
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fa79500-6c0e-48e9-988e-a563ce6609bd.jpg
 collections:
   - index:
       path: /
@@ -14,18 +33,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#FEFEFE'
-    - '#080808'
-    - '#424240'
-    - '#ACACAC'
-    - '#616161'
-  rhythmicContrast: 0.5
-typography_spectrum: 1
-content_rating:
-  adult: false
-layout_spectrum: 1
