@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JRS]]></title>
+        <description><![CDATA[JRS]]></description>
+        <link>https://thegrid.ai/jrs/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Aug 2016 00:26:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jrs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ff34fe-c459-4b02-9fdc-ca8de9846470.jpg">]]></description>
+            <link>https://thegrid.ai/jrs/8ab60cab-5e44-4699-9920-7a68e67c55ec/index.html</link>
+            <guid isPermaLink="false">8ab60cab-5e44-4699-9920-7a68e67c55ec</guid>
+            <pubDate>Fri, 12 Aug 2016 00:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dee4c155-e947-4c98-9172-4dc2d10a3c5e.jpg">]]></description>
+            <link>https://thegrid.ai/jrs/1b97183f-d3c9-487f-856a-e97c8fa95148/index.html</link>
+            <guid isPermaLink="false">1b97183f-d3c9-487f-856a-e97c8fa95148</guid>
+            <pubDate>Fri, 12 Aug 2016 00:26:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
